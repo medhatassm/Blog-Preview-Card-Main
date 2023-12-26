@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/medhatassm/Blog-Preview-Card-Main.git)
+- Solution URL: [Blog Preview Card](https://medhatassm.github.io/Blog-Preview-Card-Main/)
 
 ### Built with
 
